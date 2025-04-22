@@ -1,0 +1,3 @@
+C:/Users/Admin/projects/OpenGlLearning/build/CMakeFiles/OpenGLLearning.dir
+C:/Users/Admin/projects/OpenGlLearning/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Admin/projects/OpenGlLearning/build/CMakeFiles/ZERO_CHECK.dir
