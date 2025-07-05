@@ -1,1 +1,0 @@
-*Structure from Motion (SfM)*: 
