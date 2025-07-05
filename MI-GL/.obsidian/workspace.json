@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "2d4bec7001ff8a83",
+    "type": "split",
+    "children": [
+      {
+        "id": "eceffa8aad502087",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc2de280511d5e33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenGL/OpenGL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OpenGL"
+            }
+          },
+          {
+            "id": "94398b16f0965f32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenGL/OpenGL Info.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OpenGL Info"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee584da98003b647",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cb2f06b3969ecd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c80256673c944fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3a31d5e18aee3ca6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a4df78a7b4ec78c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "148324faa45a9b77",
+    "type": "split",
+    "children": [
+      {
+        "id": "446f398b2c66976f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b81cdbf4fcfdf218",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OpenGL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for OpenGL"
+            }
+          },
+          {
+            "id": "60afdfe93bb3e874",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OpenGL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from OpenGL"
+            }
+          },
+          {
+            "id": "7c4bea6e49914c1d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "032e636c41f8e715",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OpenGL.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of OpenGL"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "94398b16f0965f32",
+  "lastOpenFiles": [
+    "OpenGL/OpenGL.md",
+    "OpenGL/OpenGL Info.md",
+    "Gaussian Splatting/Terms.md",
+    "OpenGL",
+    "Gaussian Splatting/NERFs.md",
+    "Gaussian Splatting",
+    "Pasted image 20250421223605.png"
+  ]
+}
